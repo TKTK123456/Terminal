@@ -1,4 +1,4 @@
 #!/bin/sh
 
 . ./.env
-echo $test
+echo $test 
